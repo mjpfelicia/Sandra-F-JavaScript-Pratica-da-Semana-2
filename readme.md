@@ -3,10 +3,10 @@
 # Sandra-F-JavaScript-Pratica-da-Semana-2 
 # https://github.com/mjpfelicia
 
-<img src="./lesson/assets/1validacao" alt="Site em Telas" />
-<img src="./lesson/assets/2validacao" alt="Site em Telas" />
-<img src="./lesson/assets/3validacao" alt="Site em Telas" />
-<img src="./lesson/assets/4validacao" alt="Site em Telas" />
+<img src="img/1validacao.png" alt="Site em Telas" />
+<img src="img/2validacao.png" alt="Site em Telas" />
+<img src="img/3validacao.png" alt="Site em Telas" />
+<img src="img/4validacao.png" alt="Site em Telas" />
 
 
 
